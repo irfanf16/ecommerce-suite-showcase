@@ -29,12 +29,6 @@ The same commerce domain implemented across five stacks — server-rendered, SPA
 **Commerce fundamentals across stacks.** Multi-locale catalogues, PDF invoice generation (dompdf + wkhtmltopdf), image transformation, Excel import/export, and Stripe and Twilio integration — implemented in both server-rendered and SPA architectures.
 
 
-## Screenshots
-
-<!-- ![Laravel Storefront](docs/laravel-storefront.png) -->
-<!-- ![React Storefront](docs/react-storefront.png) -->
-
-_Screenshots pending — see `docs/README.md`._
 
 ## Stack
 
